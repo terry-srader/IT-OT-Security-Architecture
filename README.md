@@ -1,6 +1,6 @@
 # IT-OT-Security-Architecture
 
-This repository contains the architecture, network design, standards, and planning documents used to build my IT/OT security environment.
+This is architecture, network design, standards, and planning documents used for bulding IT/OT security environment.
 
 Focus areas:
 
